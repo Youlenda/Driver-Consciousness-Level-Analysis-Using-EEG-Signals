@@ -2,7 +2,7 @@
 Driver's Consciousness Level Analysis Using EEG Signals
 
 
-Abstract
+**Abstract**
 
 One of the main reasons for road accidents is driver fatigue, around 30 per cent of the accidents occur because of the drivers' drowsiness. Thus, early detection of driver's drowsiness would be critical to prevent these accidents. Using biological approaches such as EEG signals could be one of the most efficient methods.
 
