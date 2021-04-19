@@ -8,5 +8,5 @@ One of the main reasons for road accidents is driver fatigue, around 30 per cent
 
 In this project, EEG signals are used which have been collected by PhysioNet. These signals then are categorized into five sub-frequency bands by Butterworth bandpass filter. Next, four classifiers, SVM, kNN, DT, and NN, are trained by several extracted features, including minimum, maximum, average, energy, and entropy. Then, the classifiers are evaluated by k-Fold Cross Validation. Finally, the decision tree classifier reaches 95.2 per cent accuracy for detecting drowsiness and awareness.
 
-keywords: EEG Signals, Classification, Driver's Consciousness
+**keywords**: EEG Signals, Classification, Driver's Consciousness
 
