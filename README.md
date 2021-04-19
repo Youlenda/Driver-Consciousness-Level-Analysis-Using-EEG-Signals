@@ -1,10 +1,12 @@
-# Bachelor-Thesis
-Driver's consciousness level analysis using EEG signals
+# Bachelor's-Thesis
+Driver's Consciousness Level Analysis Using EEG Signals
 
 
 Abstract
 
-Driver Fatigue is one of the main reasons for road accidents; About 30 percent of the accidents occur because of drivers' drowsiness. Therefore early detection of driver's drowsiness will be critical to prevent road accidents. Using biologic approaches such as EEG signals is the most valid method.
-In this project, EEG signals from Physionet Databases are used. Butterworth bandpass filter is benefited to categorize data to 5 sub-frequency bands. Six features such as minimum, maximum, average, energy, and entropy of the signals are extracted. These features are utilized for training four classifier, SVM, kNN, DT, and NN. Finally, k-Fold Cross Validation is employed to evaluate the classifiers. Accuracy of decision tree classifier (DT) reaches 95.2% for detecting drowsiness from awereness.
+One of the main reasons for road accidents is driver fatigue, around 30 per cent of the accidents occur because of the drivers' drowsiness. Thus, early detection of driver's drowsiness would be critical to prevent these accidents. Using biological approaches such as EEG signals could be one of the most efficient methods.
 
-keywords: EEG signals, Classification, Driver's consciousness
+In this project, EEG signals are used which have been collected by PhysioNet. These signals then are categorized into five sub-frequency bands by Butterworth bandpass filter. Next, four classifiers, SVM, kNN, DT, and NN, are trained by several extracted features, including minimum, maximum, average, energy, and entropy. Then, the classifiers are evaluated by k-Fold Cross Validation. Finally, the decision tree classifier reaches 95.2 per cent accuracy for detecting drowsiness and awareness.
+
+keywords: EEG Signals, Classification, Driver's Consciousness
+
